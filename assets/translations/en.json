@@ -1,0 +1,88 @@
+{
+    "appName": "Flexus Test App",
+    "homePageWelcome": "Welcome to {}!",
+    "appWelcomeMessage": "Welcome {}!",
+    "authErrors": {
+        "noUserFound": "There is no user record corresponding to this email address.",
+        "wrongPassword": "The password is invalid or the user does not have a password",
+        "weakPassword": "The password provided is too weak",
+        "accountAlreadyExist": "The account already exists for that email",
+        "accountExistWithSameEmail": "An account already exists with the same email address but different front-in credentials. Sign in in using a provider associated with this email address",
+        "signInFailure": "Sign in failure",
+        "resetPasswordFailed": "Failed to reset the password",
+        "googleSignInFailed": "Failed to front in with Google.",
+        "facebookSignInFailed": "Failed to front in with Facebook.",
+        "facebookSignInCanceled": "Failed to front in with Facebook.",
+        "tooManyRequests": "Too many requests to verify the email. Please try again in a while",
+        "unauthorized": "User is not authorized to perform the desired action"
+    },
+    "introPage": {
+        "skip": "Skip",
+        "getStarted": "Get Started",
+        "intro1": {
+            "title": "Improved Performance",
+            "body": "Improved performance with Flexus"
+        },
+        "intro2": {
+            "title": "Easily Create Apps",
+            "body": "Modern UI framework for easily create apps"
+        },
+        "intro3": {
+            "title": "Flexible Flutter Framework",
+            "body": "Framework to build flexible flutter apps"
+        },
+        "intro4": {
+            "title": "Latest and Modern Design",
+            "body": "Latest Flutter library usage"
+        }
+    },
+    "auth": {
+        "signIn": "Sign In",
+        "signUp": "Sign Up",
+        "signOut": "Sign Out",
+        "dontHaveAnAccount": "Don't have an account?",
+        "alreadyHaveAnAccount": "Already have an account?",
+        "orRegisterWithEmail": "Or sign up with email",
+        "orLoginWith": "Or sign in with",
+        "forgot": "Forgot?",
+        "forgotPassword": "Forgot Password",
+        "emailToResetPassword": "Please enter your email address to reset the password",
+        "resetPassword": "Reset Password",
+        "resetPasswordSuccess": "Please check your email for reset password link. Once you reset the password, use your new password for sign in",
+        "name": "Name",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "confirmPasswordNotMatching": "Password and confirm password are not matching",
+        "emailVerification": "Email Address Verification",
+        "verifyEmail": "Verify Email Address",
+        "iHaveVerifiedMyEmail": "I Have Verified My Email Address",
+        "thankYouForVerifyingEmail": "Thank you for verifying your email address. You will be signed in to the app now",
+        "verifyEmailMessage": "Your email address needs to be verified prior to sign in. Please verify your email address by clicking the link that is sent to your email. Once it is verified click on the I have verified my email address button",
+        "emailNotVerifiedYet": "Your email address is not verified yet. Please wait few seconds and try again if you have already verified your email address",
+        "signOutConfirmation": "Are you sure you want to sign out?",
+        "gender": "Gender",
+        "profile": "Profile",
+        "man": "Male",
+        "woman": "Female"
+    },
+    "generic": {
+        "yes": "Yes",
+        "no": "No",
+        "ok": "OK",
+        "cancel": "Cancel",
+        "save": "Save"
+    },
+    "dialogs": {
+        "cropImage": "Crop Image",
+        "pleaseSelectSource": "Please select the source",
+        "camera": "Camera",
+        "gallery": "Gallery"
+    },
+    "apiPage": {
+        "menuName": "Go to API"
+    },
+    "pocketBasePage": {
+        "menuName": "Go to PB Page"
+    }
+}

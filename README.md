@@ -1,5 +1,5 @@
 # QR Code Scanner & Genarater
 
-Ad Free QR Code scanner For any user
+Open Source AD Free QR Code scan app For any user 
 
 ## Getting Started

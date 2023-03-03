@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "122070897857",
+    "project_id": "qr-scanner-4d27a",
+    "storage_bucket": "qr-scanner-4d27a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122070897857:android:06d276c0fbc56756d57040",
+        "android_client_info": {
+          "package_name": "lk.com.thulana.qr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122070897857-7s7qq1h5soc0e9hpaffk75jctlv4d8j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.com.thulana.qr",
+            "certificate_hash": "cd1d0222f135f2c437d6aee9beeb871cf8151a7a"
+          }
+        },
+        {
+          "client_id": "122070897857-7hqr4smm2p9668fvtamf2volsn36qgdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWf3wjgjfW-kgfd8qqbbI1pfEPUYnBss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122070897857-7hqr4smm2p9668fvtamf2volsn36qgdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

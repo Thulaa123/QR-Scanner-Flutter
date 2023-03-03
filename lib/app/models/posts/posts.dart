@@ -38,8 +38,8 @@ class Posts {
   /// `dart:convert`
   ///
   /// Parses the string and returns the resulting Json object as [Posts].
-  factory Posts.fromJson(String data) {
-    return Posts.fromMap(json.decode(data) as Map<String, dynamic>);
+  factory Posts.fromJson(Map<String, dynamic> data) {
+    return Posts.fromMap(data);
   }
 
   /// `dart:convert`
